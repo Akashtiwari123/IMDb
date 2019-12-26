@@ -1,2 +1,0 @@
-# IMDb
-Created with CodeSandbox
